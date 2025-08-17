@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -9,6 +8,7 @@ from sqlalchemy.engine import Engine
 from scipy import stats
 from seaborn_analyzer import hist as sbhist
 import warnings, os
+import japanize_matplotlib
 
 # ============================
 # ページ & サイドバー安定化
