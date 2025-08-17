@@ -9,3 +9,4 @@ seaborn-analyzer>=0.3.6
 reportlab==4.2.2
 psycopg2-binary==2.9.9
 pymysql==1.1.1
+japanize-matplotlib==1.1.3
